@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "New Web Retailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "N/A"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhilley44/Web-Retailer.git"
+  },
+  "keywords": [
+    "N/A"
+  ],
+  "author": "John Hilley",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/jhilley44/Web-Retailer/issues"
+  },
+  "homepage": "https://github.com/jhilley44/Web-Retailer#readme"
+}
